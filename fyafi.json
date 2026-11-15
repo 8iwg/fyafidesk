@@ -1,0 +1,19 @@
+{
+  "app-name": "FyafiDesk",
+  "disable-account": "Y",
+  "disable-ab": "Y",
+  "override-settings": {
+    "custom-rendezvous-server": "95.111.244.218",
+    "relay-server": "95.111.244.218",
+    "key": "g2Tm3igRyDt0MdxI7WJGJHyaoRruA2ooNB5ZAkUt0QI=",
+    "api-server": "",
+    "enable-check-update": "N",
+    "allow-auto-update": "N",
+    "hide-server-settings": "Y",
+    "hide-proxy-settings": "Y",
+    "hide-websocket-settings": "Y"
+  },
+  "default-settings": {
+    "theme": "light"
+  }
+}
